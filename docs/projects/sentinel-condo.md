@@ -60,9 +60,7 @@ Não são publicados neste repositório:
 
 ## Status atual do projeto
 
-O projeto ainda está em fase de configuração e estruturação.
-
-Até o momento, os testes completos do escopo ainda não foram finalizados.
+O projeto ainda está em fase de configuração e estruturação inicial.
 
 ## Screenshot disponível
 
