@@ -60,8 +60,6 @@ Não são disponibilizados neste portfólio:
 
 O projeto está em processo contínuo de configuração, evolução e refinamento.
 
-Alguns aspectos ainda seguem em validação, e os testes do escopo completo ainda não foram concluídos.
-
 ## Screenshots / demonstração visual
 
 Espaço reservado para inclusão de prints e materiais visuais selecionados posteriormente.

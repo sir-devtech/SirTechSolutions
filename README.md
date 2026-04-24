@@ -18,7 +18,7 @@ Portfólio público de soluções desenvolvidas por **Moisés / sir-devtech**, c
 
 **Desenvolvedor Full Stack** com experiência comprovada em projetos de gestão administrativa, painéis web, PWA e soluções multiplataforma. Atuação focada em entrega real de produto digital, do back-end ao front-end, com organização, arquitetura segura e evolução contínua de sistemas em ambientes profissionais.
 
-**Nível:** Pleno (com pontos de sênioridade em arquitetura, confidencialidade, produto e deploys)
+**Nível:** Pleno — com entrega comprovada de produtos reais, organização full-stack, práticas de arquitetura segura e deploys em produção.
 
 ### Práticas e preocupações profissionais
 
