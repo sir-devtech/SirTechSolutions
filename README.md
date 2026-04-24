@@ -68,7 +68,7 @@ Plataforma operacional e administrativa com presença **multiplataforma**: aplic
 - PWA disponível para instalação mobile/desktop
 - foco em produtividade e centralização de informações institucionais
 
-**Stack (nível seguro):** Python · HTML · Kotlin · Shell · PWA · Android
+**Stack (nível seguro):** Python · Django · HTML · Kotlin · Shell · PWA · Android
 
 [Ver detalhes do projeto →](docs/projects/gcm-sistema.md)
 
