@@ -37,6 +37,7 @@ O GCM Sistema foi desenvolvido para oferecer esse acompanhamento por meio de uma
 
 ## Tecnologias / stack em nível seguro
 
+- **Django** — framework web principal (backend)
 - **Python** — lógica de negócio e backend
 - **HTML · CSS** — estrutura e interface web
 - **Kotlin** — aplicativo Android nativo
