@@ -46,7 +46,7 @@ Para preservar segurança e propriedade intelectual, este repositório **não pu
 Solução TypeScript com PWA configurada e funcional para gestão de serviços e rotinas operacionais. **Projeto em produção.**
 
 ### GCM Sistema
-Plataforma multiplataforma com versão web, PWA instalável e aplicativo Android nativo, voltada para gestão operacional e administrativa. **Projeto em produção.**
+Plataforma multiplataforma com backend em **Django**, versão web, PWA instalável e aplicativo Android nativo, voltada para gestão operacional e administrativa. **Projeto em produção.**
 
 ### SirPetShop
 Sistema de gestão para pet shops com base em Python/HTML/Shell. Em evolução ativa com expansão de funcionalidades e cobertura planejada.
