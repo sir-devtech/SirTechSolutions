@@ -6,13 +6,19 @@
 
 ## Sobre o Desenvolvedor
 
-**sir-devtech** é um desenvolvedor de software focado na criação de sistemas completos e funcionais para segmentos específicos de negócio.
+**Moisés Santos de Oliveira** é Desenvolvedor Full Stack com foco em criar soluções práticas e eficientes para problemas reais de negócio.
 
-A abordagem de trabalho inclui:
-- Levantamento de requisitos com foco no problema real do cliente
-- Desenvolvimento full-stack orientado à entrega
-- Atenção à usabilidade, segurança e controle de acesso
-- Operação e manutenção pós-entrega
+Trabalha com **Python / Django** no back-end e **TypeScript / React** no front-end, realiza deploys em nuvem (AWS, Digital Ocean) e tem experiência na construção de sistemas offline com instalador próprio.
+
+Além da tecnologia, atua como **Guarda Civil Municipal há mais de 7 anos**, o que desenvolveu habilidades sólidas de trabalho sob pressão, tomada de decisão rápida e resolução objetiva de problemas — aplicadas diretamente na engenharia de software.
+
+**Formação:**
+- Bacharelado em Engenharia de Software — Anhanguera *(2024–2027)*
+- MBA em Gestão da Qualidade e Produtividade — UNIP *(2022)*
+- Tecnologia em Gestão Pública — UNIP *(2018–2021)*
+- Certificação Técnica: Luizalabs — Back-end com Python, 2ª Edição
+
+**Contato:** [linkedin.com/in/moisesoliveira1](https://www.linkedin.com/in/moisesoliveira1)
 
 ---
 
@@ -50,12 +56,14 @@ Sistema de portaria e controle de acesso para condomínios. Gerencia entradas, s
 
 | Área | Evidência |
 |---|---|
-| Desenvolvimento full-stack | Sistemas completos, do back-end ao front-end |
-| Modelagem de domínio | Sistemas para barbearia, pet shop, condomínio, gestão |
+| Desenvolvimento full-stack | Sistemas completos, do back-end (Python/Django) ao front-end (TypeScript/React) |
+| Deploy em nuvem e offline | AWS, Digital Ocean e instaladores para sistemas 100% offline |
+| Modelagem de domínio | Sistemas para barbearia, pet shop, condomínio, segurança pública, logística |
 | Controle de acesso | Múltiplos perfis de usuário em todos os sistemas |
 | Usabilidade | Interfaces responsivas e orientadas ao usuário final |
 | Segurança | Postura responsável: código privado, sem exposição de detalhes sensíveis |
-| Visão de produto | Sistemas orientados a problemas reais com fluxos operacionais definidos |
+| Visão de produto | Sistemas com direitos autorais registrados (INPI) e soluções prontas para o mercado |
+| Perfil profissional | Vivência operacional em segurança pública + formação em Eng. Software e Gestão |
 
 ---
 
